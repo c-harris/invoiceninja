@@ -1,0 +1,20 @@
+{
+  "name": "InvoiceNinga",
+  "alias": "Invoice",
+  "description": "A module to create Invoices",
+  "keywords": [
+    "invoice",
+    "laravel",
+    "cms"
+  ],
+  "active": 1,
+  "order": 1,
+  "version": "1.0.0",
+  "providers": [
+    "Modules\\Block\\Providers\\BlockServiceProvider",
+    "Modules\\Block\\Providers\\RouteServiceProvider"
+  ],
+  "aliases": {},
+  "files": [
+  ]
+}
